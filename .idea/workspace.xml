@@ -10,41 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89baa9ee-caa5-45e3-84ce-4046e7b640c7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\accessibility_test_framework_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\appcompat_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\appengine_api_1_0_sdk_1_9_18.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\appengine_endpoints_1_9_18.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\appengine_endpoints_deps_1_9_18.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\backend_android_endpoints.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\backend_backend_android_endpoints.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\espresso_contrib_2_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\espresso_core_2_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\espresso_idling_resource_2_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\exposed_instrumentation_api_publish_0_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_api_client_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_api_client_android_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_http_client_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_http_client_android_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_http_client_jackson2_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\google_oauth_client_1_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\guava_jdk5_13_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\hamcrest_integration_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\jackson_core_2_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\javalib_javalib.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\javawriter_2_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\javax_annotation_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\javax_inject_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\jsr305_2_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\play_services_ads_8_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\play_services_basement_8_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\rules_0_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\runner_0_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\.idea\libraries\support_v4_23_1_1.xml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\src\free\res\AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/free/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" afterPath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
@@ -57,7 +23,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/model/Jokes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/model/Jokes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/model/Jokes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/model/Jokes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApi.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApi.java" />
@@ -68,9 +33,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiRequestInitializer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiScopes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiScopes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiScopes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/jokesApi-v1-java.zip-unzipped/jokesApi/src/main/java/com/example/paularanas/builditbigger/backend/jokesApi/JokesApiScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -5275,11 +5237,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="builditbigger" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5301,11 +5259,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="free" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builditbigger" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5446,6 +5408,7 @@
       <recent name="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\src\free\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\src\free" />
       <recent name="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\src\paid\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -5793,10 +5756,10 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3061889" sideWeight="0.684375" order="12" side_tool="true" content_ui="combo" x="22" y="524" width="1876" height="297" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32790446" sideWeight="0.6328125" order="12" side_tool="true" content_ui="combo" x="22" y="524" width="1876" height="297" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3496802" sideWeight="0.5065574" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32790446" sideWeight="0.4" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32790446" sideWeight="0.3671875" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.48756218" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5456053" order="5" side_tool="true" content_ui="tabs" />
@@ -5804,14 +5767,14 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29967427" sideWeight="0.659375" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23854166" sideWeight="0.3583062" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23854166" sideWeight="0.36187398" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31161782" sideWeight="0.27132195" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32083333" sideWeight="0.49344262" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4941957" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23854166" sideWeight="0.64169383" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23854166" sideWeight="0.638126" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3061889" sideWeight="0.315625" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -6206,34 +6169,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/outputs/androidTest-results/connected/flavors/PAID/TEST-Nexus_4_API_23(AVD) - 6.0-app-PAID.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/outputs/androidTest-results/connected/flavors/FREE/TEST-Nexus_4_API_23(AVD) - 6.0-app-FREE.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7135843">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30605564">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -6246,11 +6185,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/free/res/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/free/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5368249">
+        <state vertical-scroll-proportion="0.6175973">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31641287">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#492#510#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
