@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-api-client-1.19.0_e1c9b399a210dfe1f8e16b2e8b83a34d0a41b8ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\guava-jdk5-13.0_a4ab138c04e61dcb786b66cc2a805747a23fa909.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\support-annotations-23.1.1_259be7f2e7f0421f1139a6118233b2619fe881e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-http-client-android-1.19.0_de0e531228f569d785b1a0beeb71d9a26fa49c24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-api-client-android-1.19.0_01c02d1ef425356203e87be4b5e202655b78d275.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\com.google.android.gms-play-services-ads-8.4.0_4c153377d17310f25715032752fa17a209d1e29e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-http-client-jackson2-1.19.0_4d075e7f616adf7c95030f2f28e0d1ad3d62bc94.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\BuildItBigger\androidlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="36df3e142991d797b3397103f4734451280a81ad">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\BuildItBigger-androidlib-unspecified_9eee35af72d97383c0f22f14cd400b1a6bde33a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\jsr305-2.0.1_9e785c47937cda3d71639fce38ab5a65822beb55.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="37a8f661ecdf4cd24cd548d485152cf6440e4a26">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\backend-android-endpoints_3360994dcaffbfafc6e2aef9fe8def7e0ee4e24b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-v4-23.1.1_935327f2bfa58c7e47751e3cab10cfa7bb77fa32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\jackson-core-2.1.3_bcf19d9eb8db7ba2533f3ec7141b42d733a68579.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\internal_impl-23.1.1_db405e1677821a2b36f667e758c079c4cd736218.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\com.android.support-appcompat-v7-23.1.1_76aaa271a8201c7761a1826f712c9f4274bb8fae.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\com.google.android.gms-play-services-basement-8.4.0_52fd7adcfff3ca16458170b2e000d890aafed4df.jar" />
+    </item>
+    <item
+        jar="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\javalib\build\libs\javalib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a12d88bb6713c4ff154473348908e1fb9d160b13">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\javalib_7e6f99fcb8b28739f056d3cc51c0e07f973b4a4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-http-client-1.19.0_b35082b98b2658a16ee3e020522bf80450d1520c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Paul Aranas\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\PaulAranas\AndroidStudioProjects\BuildItBigger\app\build\intermediates\pre-dexed\paid\debug\google-oauth-client-1.19.0_27856969ea0b63f65262b9c6355769cc6823ac39.jar" />
+    </item>
+
+</items>
