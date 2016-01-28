@@ -23,11 +23,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    productFlavors{
-        paid{
+    productFlavors {
+        paid {
             applicationId "com.udacity.gradle.builditbigger.paid"
         }
-        free{
+        free {
             applicationId "com.udacity.gradle.builditbigger.free"
 
         }
@@ -39,11 +39,11 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    // Added for AdMob
     compile project(":javalib")
     compile project(":androidlib")
     compile 'com.android.support:appcompat-v7:23.1.1'
-    compile 'com.google.android.gms:play-services-ads:8.4.0'
+    // Added for AdMob
+    freeCompile 'com.google.android.gms:play-services-ads:8.4.0'
     compile project(path: ':backend', configuration: 'android-endpoints')
     androidTestCompile 'junit:junit:4.12'
     androidTestCompile 'com.android.support:support-annotations:23.1.1'
